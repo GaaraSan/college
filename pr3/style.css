@@ -1,0 +1,24 @@
+html{
+  background-color:azure;
+}
+.wrapper{
+    background-color: antiquewhite;
+    max-width: 1024px;
+    margin: 200px auto;
+    padding: 15px;
+}
+.text{
+    font-size: 48px;
+    color: olive;
+}
+textarea{
+    width: 90%;
+    display: block;
+  }
+label{
+    display: inline-block;
+    background: #efefef;
+    border-radius: 3px;
+    padding: 4px 10px;
+    margin: 5px;
+  }
