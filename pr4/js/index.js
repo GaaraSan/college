@@ -48,7 +48,7 @@ let openStatus = false;
 let goodsVisible = false;
 
 let users = [
-    { login: "admin", password: "123" },
+    { login: "1111", password: "1111" },
 ];
 
 const getData = async (url) => {
