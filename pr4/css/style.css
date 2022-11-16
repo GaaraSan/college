@@ -90,6 +90,15 @@ body {
     padding: 68px 70px;
     margin-bottom: 56px;
 }
+.kebab {
+    background: #fff1b8 url(../img/promo/kebab.png) no-repeat top -50px right -70px / 600px;
+}
+.vegetables {
+    background: #fff1b8 url(../img/promo/vegetables.png) no-repeat right -100px ;
+}
+.sushi {
+    background: #fff1b8 url(../img/promo/sushi.png) no-repeat top -50px right -70px / 600px;
+}
 
 .proto-title {
     font-style: normal;
